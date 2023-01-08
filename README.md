@@ -2,11 +2,11 @@
 This is the repo for the final project.
 
 ## Reproducing Submission
-You can simply run `inference.ipynb` on Google Colab to reproduce the result.
-The packages that the notebokk uses are installed by default on Google Colab.
+You can simply run `0816181_Final_inference.ipynb` on Google Colab to reproduce the result.
+The packages that the notebook uses are installed by default on Google Colab.
 Steps:
-1. Upload `inference.ipynb` to Google Colab.
-2. Execute all of the cells.
+1. Upload `0816181_Final_inference.ipynb` to Google Colab.
+2. Execute all the cells.
 3. Download `submission.csv` from Google Colab's session folder.
 4. You're all set!
 
