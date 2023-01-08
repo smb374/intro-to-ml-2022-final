@@ -11,7 +11,8 @@ Steps:
 4. You're all set!
 
 In addition, the pretrained model's download link: [Here](https://drive.google.com/uc?id=1kE_1AFNtRi-5lOEveMdhAdt-QOjEWrFR&confirm=t).
-If you want to run it local, make sure to run the following command to ensure that the packages are installed:
+
+If you want to run the notebooks locally, make sure to run the following command to ensure that the packages are installed:
 ```
 pip3 install -U numpy pandas joblib scipy sklearn matplotlib seaborn
 ```
